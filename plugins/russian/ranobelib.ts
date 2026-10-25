@@ -1,4 +1,4 @@
-  import { Plugin } from '@/types/plugin';
+import { Plugin } from '@/types/plugin';
 import { FilterTypes, Filters } from '@libs/filterInputs';
 import { defaultCover } from '@libs/defaultCover';
 import { fetchApi } from '@libs/fetch';
